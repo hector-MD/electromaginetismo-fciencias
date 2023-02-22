@@ -5,6 +5,8 @@ from vpython import *
 """
 Creado por Andrea Morales Rodriguez y Hector Mejia-Diaz
 
+Se puede ejecutar en glowscript.org
+
 
 Queremos dibujar el campo vectorial A = (x,y,-z)
 
